@@ -55,9 +55,9 @@ Upon completion of payment, the user receives a cashier\'s check for the transac
 ### Automatic installation 
 Automatic installation is the easiest option as WordPress handles the file transfers itself and you don’t need to leave your web browser. To do an automatic install of the WooCommerce Plasmapay  plugin, log in to your WordPress dashboard, navigate to the Plugins menu and click Add New.
 In the search field type “WooCommerce Plasmapay Payment” and click Search Plugins. Once you’ve found our plugin you can view details about it such as the point release, rating, and description. Most importantly, of course, you can install it by simply clicking “Install Now”, then “Activate”.
-= Manual installation =
+### Manual installation
 The manual installation method involves downloading our plugin and uploading it to your web server via your favorite FTP application. To learn more, see Installing and Managing Plugins.
-Updating
+### Updating
 Automatic updates should work like a charm; as always though, ensure you backup your site just in case.
 
 ### Configuration 
