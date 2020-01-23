@@ -33,7 +33,7 @@ By connecting PlasmaPay you can accept card payments for your goods and services
 * register an account on plasmapay.com
 * activate Plasma account with company or site name
 * pass personal verification and receive the status of \"Digital Citizen\" on the platform
-* request a company profile by mail business@plasmapay.com
+* request a company profile by mail **business@plasmapay.com**
 * fill out and send a questionnaire along with scans of statutory documents
 * after checking the documents and signing the electronic contract, your account will be assigned the status \"Business\" and you will be able to generate API keys for integrating checkout windows into your online store or service
 
@@ -64,7 +64,7 @@ Automatic updates should work like a charm; as always though, ensure you backup 
 
 The main application setting is in the application Plasmapay after which you get the API  keys
 
-*Plasmapay webiste*   >  *Business*  > *Create Application*  >   *And follow line Settings*
+***Plasmapay webiste*   >  *Business*  > *Create Application*  >   *And follow line Settings***
 
 **Settings**: 
 
@@ -94,7 +94,7 @@ The URI on which we send the invoice when the status is changed new -> pending -
 
 **Who will pay  fee**
 You can choose who will pay the fee for processing the payment: company or client. If the company pays the commission, then the invoice amount will be final for the payer, if the client pays the commission, then for payment he will receive the invoiced amount + payment system commission.
-  After when you get API KEY  you need go to your *WordPress* >   *WooCommerce* > *Settings* > *Payment* > *Plasmapay Payment* > *and then add API KEY*
+  After when you get API KEY  you need go to your ***WordPress* >   *WooCommerce* > *Settings* > *Payment* > *Plasmapay Payment* > *and then add API KEY***
 
 [Details page](https://about.plasmapay.com/en/articles/3505108-open-business-account-in-payment-system-plasmapay)
 
