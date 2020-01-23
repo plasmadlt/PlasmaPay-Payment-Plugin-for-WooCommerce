@@ -112,14 +112,14 @@ If you get stuck, you can ask for help in the Plugin Forum.
 # Screenshots
 
 ### Installation Dashboard inside WooCommerce > Settings
-<img align="сenter" width="500" height="250" src="https://github.com/plasmadlt/woocommerce-plasmapay-gateway/raw/master/img/screenshot-1.png"> </br> 
+<img align="сenter" width="500" height="250" src="https://github.com/plasmadlt/PlasmaPay-Payment-Plugin-for-WooCommerce/raw/master/img/screenshot-1.png"> </br> 
 
 ### Use Standard Checkout Page  WooCommerce (can be you customized) 
 
-<img align="сenter" width="250" height="350" src="https://github.com/plasmadlt/woocommerce-plasmapay-gateway/raw/master/img/screenshot-2.png"> </br> 
+<img align="сenter" width="250" height="350" src="https://github.com/plasmadlt/PlasmaPay-Payment-Plugin-for-WooCommerce/raw/master/img/screenshot-2.png"> </br> 
 
 ### Redirect payment on after Checkout Process on PlasmaPay  
-<img align="сenter" width="390" height="450" src="https://github.com/plasmadlt/woocommerce-plasmapay-gateway/raw/master/img/screenshot-3.png"> </br> 
+<img align="сenter" width="390" height="450" src="https://github.com/plasmadlt/PlasmaPay-Payment-Plugin-for-WooCommerce/raw/master/img/screenshot-3.png"> </br> 
 
 # Changelog
 **1.0.0**
